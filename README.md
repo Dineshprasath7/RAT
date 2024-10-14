@@ -1,6 +1,22 @@
 # Windows RAT
 
-The Windows RAT is a comprehensive tool for remote system control and monitoring on Windows machines. It facilitates various operations, including managing system tasks, file handling, and network diagnostics. With capabilities such as remote keylogging, screen sharing, and webcam snapshots, it offers robust features for overseeing and interacting with a target system. Designed for educational and research purposes, this RAT enables seamless execution of commands to monitor and control remote environments.
+This Remote Trojan is a powerful tool that provides extensive control over a remote system.
+It’s designed with a wide range of commands that allow for system manipulation, file
+management, network analysis, and even keylogging.
+
+In terms of system commands, we have implemented features likeretrieve system
+information, list all system tasks, and even change the wallpaper. It also provides shell
+commands for directory navigation and file management.
+
+For network analysis, the local IP, a port scan, and list network profiles. The keylogger
+functionality allows for the start and stop of keylogging, as well as sending captured
+keystrokes.
+
+This tool also  allows screensharing, breaking the screenshare stream, capturing screenshots, and
+even taking webcam photos.
+
+The file commands provide comprehensive file management capabilities, including creating, editing, deleting, copying, moving files, and even directory
+management.
 
 How to Use:
 
